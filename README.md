@@ -1,4 +1,12 @@
-# django-vue-boilerplate
+# Django Vue BoilerPlate
+
+## Backend setup
+```
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+python manage.py runserver
+```
 
 ## Project setup
 ```
